@@ -13,8 +13,8 @@ int main(){
 ```
 
 ## 2.Comments
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -23,11 +23,11 @@ int main(){
     cout << "Hello World!";
     return 0;
 }
-</pre>
+```
 
 ## 3.Printing Text
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -36,11 +36,11 @@ int main(){
     cout << "Goodbye , World";
     return 0;
 }
-</pre>
+```
 
 ## 4.Variable
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -52,11 +52,11 @@ int main(){
     cout << y;
     return 0;
 }
-</pre>
+```
 
 ## 5.Calculator
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -77,11 +77,11 @@ int main(){
     
     return 0;
 }
-</pre>
+```
 
 ## 6.Arithmetic_Operations
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -95,11 +95,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 7.If_Else
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -129,11 +129,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 8.Function
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -168,11 +168,11 @@ int main(){
 void fun(){
     cout << "hello";
 }
-</pre>
+```
 
 ## 9.Passing_Valus_to_Functions
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -187,11 +187,11 @@ int main(){
     PrintThisNumber(9);
     return 0;
 }
-</pre>
+```
 
 ## 10.Function_with_Arguments
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -223,11 +223,11 @@ int main(){
     print_Addition(1,5,0,2);
     return 0;
 }
-</pre>
+```
 
 ## 11.Classes_Objects
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -244,11 +244,11 @@ int main(){
     obj.printHello();
     return 0;
 }
-</pre>
+```
 
 ## 12.Variables_In_Class
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -276,11 +276,11 @@ int main(){
     
     return 0;
 }
-</pre>
+```
 
 ## 13.Constructor
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -320,11 +320,11 @@ int main(){
     
     return 0;
 }
-</pre>
+```
 
 ## 14.While_Loop
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -338,11 +338,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 15.For_Loop
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -355,11 +355,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 16.Assignment_Increment_operators
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -399,11 +399,11 @@ int main(){
     cout << "val is : " << --val << endl;
     return 0;
 }
-</pre>
+```
 
 ## 17.Data_Types
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -425,11 +425,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 18.Do_while_Loops
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -443,11 +443,11 @@ int main(){
     }while (x <= 10);
     
 }
-</pre>
+```
 
 ## 19.Switch_Statement
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -467,11 +467,11 @@ int main(){
         }
     }
 }
-</pre>
+```
 
 ## 20.Logical_Operators
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -496,13 +496,13 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 21.Random_Number_Generator
-<pre>
-#include &lt;iostream&gt;
-#include &lt;cstdlib&gt;
-#include &lt;ctime&gt;
+```cpp
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
 
 using namespace std;
 
@@ -517,11 +517,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 22.Default_Arguments_or_Parameters
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -535,11 +535,11 @@ int main(){
     return 0;
 }
 
-</pre>
+```
 
 ## 23.Unary_Scope_resolution_operator
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -552,11 +552,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 24.Function_Overloading
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -587,11 +587,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 25.Recursion
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -610,11 +610,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 26.Arrays 
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -626,11 +626,12 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 27.Array_using_forLoop 
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
+
 using namespace std;
 
 int main(){
@@ -659,11 +660,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 28.Arrays_As_function_parameters
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -684,11 +685,11 @@ int main(){
     printArray(b,6);
     return 0;
 }
-</pre>
+```
 
 ## 29.2D_Arrays_Matrix.cpp
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -700,11 +701,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 30.Pointers
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -726,11 +727,11 @@ int main(){
     return 0; 
 
 }
-</pre>
+```
 
 ## 31.PassBy_Reference
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -760,11 +761,11 @@ int main(){
     return 0;
 
 }
-</pre>
+```
 
 ## 32.SizeOf
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -790,11 +791,11 @@ int main(){
 // char - 1 byte
 // double - 8 bytes
 // array - 20 bytes 
-</pre>
+```
 
 ## 33.Pointer_Arithmetic
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -820,11 +821,11 @@ int main(){
 // char - 1 byte
 // double - 8 bytes
 // array - 20 bytes 
-</pre>
+```
 
 ## 34.Arrow_Selection_Operator
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -854,11 +855,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 35.Deconstructor
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -881,11 +882,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 36.Const_Objects
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -920,11 +921,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 37.Member_Intializer_List
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -955,12 +956,12 @@ int main(){
     
     return 0;
 }
-</pre>
+```
 
 ## 38.Class_Composition
-<pre>
-#include &lt;iostream&gt;
-#include &lt;string&gt;
+```cpp
+#include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -1017,11 +1018,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 39.Friend_Function
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1058,11 +1059,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 40.This_Keyword
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1093,11 +1094,11 @@ int main(){
 
    return 0;
 }
-</pre>
+```
 
 ## 41.Operator_Overloading
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1144,11 +1145,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 42.Inheritance
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1168,11 +1169,11 @@ int main(){
     dhoni.printName();
     return 0;
 }
-</pre>
+```
 
 ## 43.Protected_Access_Specifier
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1200,10 +1201,10 @@ int main(){
     dhoni.printValues();
     return 0;
 }
-</pre>
+```
 ## 44.Derived_Class_Constructor_Destructor
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1232,11 +1233,11 @@ int main(){
     cout << "Main function" << endl; // 3
     return 0;
 }
-</pre>
+```
 
 ## 45.Polymorphism
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1284,11 +1285,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 46.Virtual_PureVirtualFunctions
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1333,15 +1334,15 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 47.Template_Functions 
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
-template &lt;class T&gt;
+template <class T>
 
 T add(T a, T b){
     return a + b;
@@ -1360,15 +1361,15 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 48.Template_Functions_With_Multiple_Arguments
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
-template &lt;class First, class Second&gt;
+template <class First, class Second>
 
 Second add(First a, Second b){
     return a+b;
@@ -1383,15 +1384,15 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 49.Class_Template
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
-template &lt;class T&gt;
+template <class T>
 
 class Numbers {
     T first;
@@ -1421,11 +1422,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 50.Template_Specialization
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1460,11 +1461,11 @@ int main(){
     Value<double> v3(6.7);
     return 0;
 }
-</pre>
+```
 
 ## 51.Try_Catch_Exception_Handling
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1507,12 +1508,12 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 52.Output_To_a_File
-<pre>
-#include &lt;iostream&gt;
-#include &lt;fstream&gt;
+```cpp
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 
@@ -1526,12 +1527,12 @@ int main() {
 
     return 0;
 }
-</pre>
+```
 
 ## 53.File_Open_Error 
-<pre>
-#include &lt;iostream&gt;
-#include &lt;fstream&gt;
+```cpp
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 
@@ -1549,12 +1550,12 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 54.EOF_EndOfFile
-<pre>
-#include &lt;iostream&gt;
-#include &lt;fstream&gt;
+```cpp
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 
@@ -1571,13 +1572,13 @@ int main(){
     
     return 0;
 }
-</pre>
+```
 
 ## 55.Reading_From_File
-<pre>
-#include &lt;iostream&gt;
-#include &lt;fstream&gt;
-#include &lt;string&gt;
+```cpp
+#include <iostream>
+#include <fstream>
+#include <string>
 
 using namespace std;
 
@@ -1594,11 +1595,11 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ## 56.String_Functions
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -1634,18 +1635,18 @@ int main(){
 
     return 0;
 }
-</pre>
+```
 
 ### numbers.txt
-<pre>
+``` txt
 Number: 1
 Number: 2
 Number: 3
 Number: 4
 Number: 5
-</pre>
+```
 
 ### testFile.txt
-<pre>
+``` text
 Testing Files
-</pre>
+```
