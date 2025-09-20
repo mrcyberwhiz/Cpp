@@ -1,8 +1,8 @@
 # C++
 
 ## 1.Hello World
-<pre>
-#include &lt;iostream&gt;
+```cpp
+#include <iostream>
 using namespace std;
 
 int main(){
@@ -10,7 +10,7 @@ int main(){
     // << this is called stream insertion operator
     return 0;
 }
-</pre>
+```
 
 ## 2.Comments
 <pre>
